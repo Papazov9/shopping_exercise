@@ -8,6 +8,7 @@ public class TimeConv {
         Scanner scanner = new Scanner(System.in);
 
         String[] array = new String[]{"A", "B", "C"};
+
         List<String> list1 = Arrays.asList(array);
         List<String> list2 = new ArrayList<>(Arrays.asList(array));
         List<String> list3 = new ArrayList<>();

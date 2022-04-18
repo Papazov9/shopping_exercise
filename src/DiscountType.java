@@ -1,3 +1,5 @@
 public enum DiscountType {
-   VIP,SecondVisit,None
+   VIP,
+   SecondVisit,
+   None
 }

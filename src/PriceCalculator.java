@@ -1,6 +1,7 @@
 public class PriceCalculator {
 
     private double pricePerDay;
+
     private int days;
     private Season season;
     private DiscountType discountType;
